@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.env
+.env.*
+*.log
+
+.streamlit/secrets.toml
+
+assets/report_photos/

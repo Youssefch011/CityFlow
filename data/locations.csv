@@ -1,0 +1,31 @@
+id,name,category,lat,lon,crowd_level,area,description,image
+1,Sagrada Família,Architecture,41.4036,2.1744,70,Eixample,Iconic basilica and one of Barcelona's most visited monuments.,assets/images/sagrada_familia.jpg
+2,Park Güell,Park,41.4145,2.1527,88,Gràcia,Colorful Gaudí park with panoramic city views.,assets/images/park_guell.jpg
+3,Barceloneta Beach,Beach,41.3784,2.1925,85,Barceloneta,Popular urban beach with restaurants and nightlife.,assets/images/barceloneta_beach.jpg
+4,Gothic Quarter,Historic,41.3839,2.1763,80,Ciutat Vella,Historic district with narrow medieval streets.,assets/images/gothic_quarter.jpg
+5,Casa Batlló,Architecture,41.3917,2.1649,84,Eixample,Famous Gaudí masterpiece on Passeig de Gràcia.,assets/images/casa_batllo.jpg
+6,La Rambla,Street,41.3818,2.1719,90,Ciutat Vella,Barcelona's most famous pedestrian boulevard.,assets/images/la_rambla.jpg
+7,Camp Nou,Sports,41.3809,2.1228,87,Les Corts,Home stadium of FC Barcelona.,assets/images/camp_nou.jpg
+8,Montjuïc Castle,Historic,41.3635,2.1663,55,Montjuïc,Historic fortress overlooking the city.,assets/images/montjuic_castle.jpg
+9,Magic Fountain,Attraction,41.3712,2.1517,72,Montjuïc,Night fountain show with lights and music.,assets/images/magic_fountain.jpg
+10,Arc de Triomf,Monument,41.391,2.1806,65,Eixample,Famous arch and promenade area.,assets/images/arc_de_triompf.jpg
+11,Ciutadella Park,Park,41.3881,2.1875,60,Ciutat Vella,Large urban park popular with locals.,assets/images/ciutadella_park.jpg
+12,Bunkers del Carmel,Viewpoint,41.419,2.161,68,Carmel,Best panoramic viewpoint in Barcelona.,assets/images/bunkers_carmel.jpg
+13,Palau de la Música,Culture,41.3876,2.1753,58,Ciutat Vella,Beautiful modernist concert hall.,assets/images/palau_musica.jpg
+14,Tibidabo,Attraction,41.4217,2.1192,62,Tibidabo,Mountain amusement park with city views.,assets/images/tibidabo.jpg
+15,Poble Espanyol,Culture,41.3686,2.147,52,Montjuïc,Open-air architectural museum.,assets/images/poble_espanyol.jpg
+16,Sant Pau Hospital,Architecture,41.4135,2.1746,48,Sant Martí,UNESCO-listed modernist complex.,assets/images/sant_pau.jpg
+17,Passeig de Gràcia,Shopping,41.3911,2.1649,76,Eixample,Luxury shopping avenue.,assets/images/passeig_gracia.jpg
+18,Mercat de la Boqueria,Food,41.3817,2.1717,83,Ciutat Vella,Famous food market.,assets/images/boqueria.jpg
+19,Port Vell,Waterfront,41.377,2.1845,66,Port Vell,Waterfront marina and leisure area.,assets/images/port_vell.jpg
+20,Maremagnum,Shopping,41.3751,2.1823,64,Port Vell,Shopping center by the sea.,assets/images/maremagnum.jpg
+21,Parc del Laberint,Park,41.438,2.145,25,Horta,Peaceful historic garden maze.,assets/images/laberint_horta.jpg
+22,Parc de Cervantes,Park,41.3853,2.1054,22,Les Corts,Rose garden and green space.,assets/images/parc_cervantes.jpg
+23,Forum Beach,Beach,41.411,2.2257,35,Sant Martí,Less crowded beach area.,assets/images/forum_beach.jpg
+24,Bogatell Beach,Beach,41.3921,2.2036,64,Sant Martí,Popular but calmer than Barceloneta.,assets/images/bogatell_beach.jpg
+25,Nova Icaria Beach,Beach,41.3875,2.1977,45,Sant Martí,Family-friendly beach near the Olympic Port.,assets/images/nova_icaria.jpg
+26,Mar Bella Beach,Beach,41.4022,2.2138,40,Sant Martí,Popular beach for sports and relaxation.,assets/images/mar_bella.jpg
+27,Nova Mar Bella Beach,Beach,41.4073,2.2187,32,Sant Martí,Wide and quieter beach with modern facilities.,assets/images/nova_mar_bella.jpg
+28,Llevant Beach,Beach,41.4107,2.2267,25,Sant Martí,One of the least crowded beaches in Barcelona.,assets/images/llevant_beach.jpg
+29,Sant Sebastia Beach,Beach,41.3737,2.1872,70,Ciutat Vella,Historic beach near Barceloneta.,assets/images/sant_sebastia.jpg
+30,Port Olimpic,Waterfront,41.3865,2.1995,55,Sant Martí,Marina area with restaurants and seaside walks.,assets/images/port_olimpic.jpg

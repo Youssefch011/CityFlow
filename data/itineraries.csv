@@ -1,0 +1,69 @@
+email,time,place,activity,crowd_level,area,points_awarded,created_at
+,10:00,Sant Pau Hospital,Explore Architecture experience,48,Sant Martí,70,2026-06-07T00:04:59
+,11:00,Parc de Cervantes,Explore Park experience,22,Les Corts,70,2026-06-07T00:04:59
+,12:00,Llevant Beach,Explore Beach experience,25,Sant Martí,70,2026-06-07T00:04:59
+,10:00,Sant Pau Hospital,Explore Architecture experience,48,Sant Martí,70,2026-06-07T10:14:20
+,11:00,Arc de Triomf,Explore Monument experience,65,Eixample,53,2026-06-07T10:14:20
+,12:00,Parc de Cervantes,Explore Park experience,22,Les Corts,70,2026-06-07T10:14:20
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:23:24
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:23:24
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:23:24
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:23:52
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:23:52
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:23:52
+,15:15-16:15,Parc de Cervantes,"Explore calmly, support nearby local streets, and avoid peak flows",22,Les Corts,70,2026-06-07T10:24:27
+,17:22-18:22,Parc del Laberint,"Explore calmly, support nearby local streets, and avoid peak flows",25,Horta,70,2026-06-07T10:24:27
+,19:32-20:32,Nova Mar Bella Beach,"Explore calmly, support nearby local streets, and avoid peak flows",32,Sant Martí,70,2026-06-07T10:24:27
+,20:40-21:40,Llevant Beach,"Explore calmly, support nearby local streets, and avoid peak flows",25,Sant Martí,70,2026-06-07T10:24:27
+,15:15-16:15,Parc de Cervantes,"Explore calmly, support nearby local streets, and avoid peak flows",22,Les Corts,70,2026-06-07T10:25:37
+,17:22-18:22,Parc del Laberint,"Explore calmly, support nearby local streets, and avoid peak flows",25,Horta,70,2026-06-07T10:25:37
+,19:32-20:32,Nova Mar Bella Beach,"Explore calmly, support nearby local streets, and avoid peak flows",32,Sant Martí,70,2026-06-07T10:25:37
+,20:40-21:40,Llevant Beach,"Explore calmly, support nearby local streets, and avoid peak flows",25,Sant Martí,70,2026-06-07T10:25:37
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:46:51
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:46:51
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:46:51
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:47:30
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:47:30
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:47:30
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:47:37
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:47:37
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:47:37
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:47:40
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:47:40
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:47:40
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:52:21
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:52:21
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:52:21
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T10:52:24
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T10:52:24
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T10:52:24
+,10:44-11:44,Llevant Beach,Recharge outdoors while reducing pressure on crowded icons,25,Sant Martí,70,2026-06-07T11:54:51
+,12:59-13:59,Parc del Laberint,Recharge outdoors while reducing pressure on crowded icons,25,Horta,70,2026-06-07T11:54:51
+,15:06-16:06,Parc de Cervantes,Recharge outdoors while reducing pressure on crowded icons,22,Les Corts,70,2026-06-07T11:54:51
+,10:39-11:39,Parc de Cervantes,Use this stop as a lower-wait alternative to the crowded core,22,Les Corts,70,2026-06-07T12:49:54
+,12:26-13:26,Parc del Laberint,Use this stop as a lower-wait alternative to the crowded core,25,Horta,70,2026-06-07T12:49:54
+,14:18-15:18,Llevant Beach,Use this stop as a lower-wait alternative to the crowded core,25,Sant Martí,70,2026-06-07T12:49:54
+,10:39-11:39,Parc de Cervantes,Use this stop as a lower-wait alternative to the crowded core,22,Les Corts,70,2026-06-07T12:49:57
+,12:26-13:26,Parc del Laberint,Use this stop as a lower-wait alternative to the crowded core,25,Horta,70,2026-06-07T12:49:57
+,14:18-15:18,Llevant Beach,Use this stop as a lower-wait alternative to the crowded core,25,Sant Martí,70,2026-06-07T12:49:57
+,10:39-11:39,Parc de Cervantes,Use this stop as a lower-wait alternative to the crowded core,22,Les Corts,70,2026-06-07T12:50:01
+,12:26-13:26,Parc del Laberint,Use this stop as a lower-wait alternative to the crowded core,25,Horta,70,2026-06-07T12:50:01
+,14:18-15:18,Llevant Beach,Use this stop as a lower-wait alternative to the crowded core,25,Sant Martí,70,2026-06-07T12:50:01
+,10:16-11:36,Nova Icaria Beach,Keep the pace simple with open space and predictable timing,45,Sant Martí,70,2026-06-07T12:50:42
+,12:30-13:50,Parc de Cervantes,Keep the pace simple with open space and predictable timing,22,Les Corts,70,2026-06-07T12:50:42
+,10:16-11:36,Nova Icaria Beach,Keep the pace simple with open space and predictable timing,45,Sant Martí,70,2026-06-07T12:50:45
+,12:30-13:50,Parc de Cervantes,Keep the pace simple with open space and predictable timing,22,Les Corts,70,2026-06-07T12:50:45
+,10:16-11:16,Nova Icaria Beach,Use this stop as a lower-wait alternative to the crowded core,45,Sant Martí,70,2026-06-07T12:55:47
+,11:41-12:41,Llevant Beach,Use this stop as a lower-wait alternative to the crowded core,25,Sant Martí,70,2026-06-07T12:55:47
+,13:55-14:55,Parc de Cervantes,Use this stop as a lower-wait alternative to the crowded core,22,Les Corts,70,2026-06-07T12:55:47
+,10:16-11:16,Nova Icaria Beach,Use this stop as a lower-wait alternative to the crowded core,45,Sant Martí,70,2026-06-07T12:57:30
+,11:31-12:31,Mar Bella Beach,Use this stop as a lower-wait alternative to the crowded core,40,Sant Martí,70,2026-06-07T12:57:30
+,12:39-13:39,Nova Mar Bella Beach,Use this stop as a lower-wait alternative to the crowded core,32,Sant Martí,70,2026-06-07T12:57:30
+,10:16-11:16,Nova Icaria Beach,Use this stop as a lower-wait alternative to the crowded core,45,Sant Martí,70,2026-06-07T13:05:55
+,11:31-12:31,Mar Bella Beach,Use this stop as a lower-wait alternative to the crowded core,40,Sant Martí,70,2026-06-07T13:05:55
+,12:39-13:39,Nova Mar Bella Beach,Use this stop as a lower-wait alternative to the crowded core,32,Sant Martí,70,2026-06-07T13:05:55
+,10:16-11:16,Nova Icaria Beach,Use this stop as a lower-wait alternative to the crowded core,45,Sant Martí,70,2026-06-07T13:14:00
+,11:31-12:31,Mar Bella Beach,Use this stop as a lower-wait alternative to the crowded core,40,Sant Martí,70,2026-06-07T13:14:00
+,12:39-13:39,Nova Mar Bella Beach,Use this stop as a lower-wait alternative to the crowded core,32,Sant Martí,70,2026-06-07T13:14:00
+youssefchennoufi011@gmail.com,10:10-11:10,Llevant Beach,Use this stop as a lower-wait alternative to the crowded core,25,Sant Martí,70,2026-06-08T21:03:34
+youssefchennoufi011@gmail.com,11:18-12:18,Nova Mar Bella Beach,Use this stop as a lower-wait alternative to the crowded core,32,Sant Martí,70,2026-06-08T21:03:34
