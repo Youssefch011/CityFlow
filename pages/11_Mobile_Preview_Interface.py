@@ -5,7 +5,7 @@ from utils.image import get_image_base64
 from utils.style import apply_style
 
 
-st.set_page_config(page_title="iPhone Preview", page_icon="phone", layout="wide")
+st.set_page_config(page_title="Mobile Preview Interface", page_icon="phone", layout="wide")
 apply_style()
 logo_image = get_image_base64("assets/cityflow_logo.png")
 logo_src = f"data:image/png;base64,{logo_image}" if logo_image else ""
